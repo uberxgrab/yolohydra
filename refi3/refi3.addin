@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>refi3.dll</Assembly>
+		<AddInId>1fced5f0-1be1-433e-b575-5fabd7befeab</AddInId>
+		<FullClassName>refi3.Test</FullClassName>
+		<Text>Test</Text>
+		<VendorId>123</VendorId>
+		<VendorDescription>nothing^_^</VendorDescription>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+	</AddIn>
+
+	<AddIn Type="Application">
+		<Name>UI</Name>
+		<Assembly>refi3.dll</Assembly>
+		<AddInId>2b190e21-45ca-455e-8671-8b2028964476</AddInId>
+		<FullClassName>refi3.UI</FullClassName>
+		<Text>UI</Text>
+		<VendorId>123</VendorId>
+		<VendorDescription>nothing^_^</VendorDescription>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+	</AddIn>
+</RevitAddIns>

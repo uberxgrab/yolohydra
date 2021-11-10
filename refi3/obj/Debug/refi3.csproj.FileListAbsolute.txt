@@ -1,0 +1,7 @@
+D:\pj3\refi3\bin\Debug\refi3.dll
+D:\pj3\refi3\bin\Debug\refi3.pdb
+D:\pj3\refi3\obj\Debug\refi3.csproj.AssemblyReference.cache
+D:\pj3\refi3\obj\Debug\refi3.csproj.CoreCompileInputs.cache
+D:\pj3\refi3\obj\Debug\refi3.dll
+D:\pj3\refi3\obj\Debug\refi3.pdb
+D:\pj3\refi3\bin\Debug\refi3.addin
